@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202610042226475110HP</value>
+    <value>20261004222500PJEEUX</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20261004222647DS3AGO</value>
+    <value>20261004222500IXDA3A</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791170681273</value>
+    <value>1791254740115</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,96 +93,46 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>7ef8665a-f075-4f61-bb0d-875af9e929c3</odePageId>
+  <odePageId>page-muun4rix-d7ehert7r</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Aprendizaje basado en casos</pageName>
+  <pageName>Estrategia de aprendizaje basado en</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Aprendizaje basado en casos</value>
+      <value>Estrategia de aprendizaje basado en</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Aprendizaje basado en casos</value>
+      <key>visibility</key>
+      <value>true</value>
     </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>7ef8665a-f075-4f61-bb0d-875af9e929c3</odePageId>
-      <odeBlockId>block-muuo0phj-7k4bfq3ym</odeBlockId>
-      <blockName></blockName>
-      <iconName>mi-menu_book</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>7ef8665a-f075-4f61-bb0d-875af9e929c3</odePageId>
-          <odeBlockId>block-muuo0phj-7k4bfq3ym</odeBlockId>
-          <odeIdeviceId>idevice-1791169409286-wn0zvusmk</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;"><span style="color: #169179;"><strong><span style="font-size: 14pt;">Aprendizaje basado en casos</span></strong></span></p>
-<div class="exe-fx exe-tabs">
-<h2><strong>P1. Video expositivo de presentación del caso</strong><br /></h2>
-<p><strong>Estructura (parametrización académica del entregable)<br /></strong><span style="font-size: 10pt;">1. Introducción: Presentación del caso: título, contexto general y relevancia.</span><br /><span style="font-size: 10pt;">Objetivo de la exposición: qué se pretende mostrar o resolver.</span><br /><span style="font-size: 10pt;">Justificación: por qué se eligió el caso y su importancia académica o profesional.</span><br /><span style="font-size: 10pt;">2. Descripción del caso: Contexto específico: lugar, tiempo, actores involucrados. Situación problemática: hechos clave, conflicto o dilema central. Datos relevantes: cifras, testimonios, documentos, etc.</span><br /><span style="font-size: 10pt;">3. Análisis preliminar del caso: Identificación del problema principal. Causas y consecuencias. Perspectiva teórica: aplicación de conceptos, teorías o modelos. Valoración crítica: fortalezas, debilidades, oportunidades y amenazas (puede incluir un FODA).</span><br /><span style="font-size: 10pt;">4. Alternativas de solución: Opciones posibles: con sus ventajas y desventajas. Criterios de evaluación: cómo se comparan las alternativas.</span><br /><span style="font-size: 10pt;">5. Propuesta de solución: Solución elegida: argumentación y sustentación. Plan de acción: pasos, recursos, responsables y cronograma. Impacto esperado: beneficios, riesgos y sostenibilidad.</span><br /><span style="font-size: 10pt;">6. Conclusiones: Síntesis del aprendizaje. Reflexión personal o grupal. Recomendaciones futuras.</span><br /><span style="font-size: 10pt;">7. Preguntas y discusión: Motivación del interés y proyección de futuras indagaciones.</span><br /><span style="font-size: 10pt;">8. Referencias: Fuentes bibliográficas, documentales o testimoniales utilizadas.</span><strong><br /></strong></p>
-<p><span style="font-size: 12pt;"><strong>Formato (soporte) / tecnológico</strong></span></p>
-<p><span style="font-size: 10pt;">• Archivo en formato MP4, generado a partir de una presentación en PowerPoint (presentación exportada a video MP4).</span></p>
-<p><span style="font-size: 10pt;">Tecnológico:</span></p>
-<p><span style="font-size: 10pt;">• Duración máxima: 10 minutos.</span><br /><span style="font-size: 10pt;">• Peso máximo del archivo: 200 MB.</span><br /><span style="font-size: 10pt;">• Las tablas o cuadros comparativos deben diseñarse e incrustarse directamente en el archivo en formato editable; no se admite la inserción de tablas provenientes de hojas de cálculo externas, el uso de capturas de pantalla o imágenes. Tampoco se permite enlazar direcciones URL externas ni vínculos a repositorios en la nube.</span></p>
-<h2><strong> P2. Revisión de prensa</strong></h2>
-<p>Contenido</p>
-<h2><strong>P3. Revisión de archivo</strong></h2>
-</div>
-<p style="text-align: center;"><br /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791169409286-wn0zvusmk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #169179;\"><strong><span style=\"font-size: 14pt;\">Aprendizaje basado en casos</span></strong></span></p>\n<div class=\"exe-fx exe-tabs\">\n<h2><strong>P1. Video expositivo de presentación del caso</strong><br /></h2>\n<p><strong>Estructura (parametrización académica del entregable)<br /></strong><span style=\"font-size: 10pt;\">1. Introducción: Presentación del caso: título, contexto general y relevancia.</span><br /><span style=\"font-size: 10pt;\">Objetivo de la exposición: qué se pretende mostrar o resolver.</span><br /><span style=\"font-size: 10pt;\">Justificación: por qué se eligió el caso y su importancia académica o profesional.</span><br /><span style=\"font-size: 10pt;\">2. Descripción del caso: Contexto específico: lugar, tiempo, actores involucrados. Situación problemática: hechos clave, conflicto o dilema central. Datos relevantes: cifras, testimonios, documentos, etc.</span><br /><span style=\"font-size: 10pt;\">3. Análisis preliminar del caso: Identificación del problema principal. Causas y consecuencias. Perspectiva teórica: aplicación de conceptos, teorías o modelos. Valoración crítica: fortalezas, debilidades, oportunidades y amenazas (puede incluir un FODA).</span><br /><span style=\"font-size: 10pt;\">4. Alternativas de solución: Opciones posibles: con sus ventajas y desventajas. Criterios de evaluación: cómo se comparan las alternativas.</span><br /><span style=\"font-size: 10pt;\">5. Propuesta de solución: Solución elegida: argumentación y sustentación. Plan de acción: pasos, recursos, responsables y cronograma. Impacto esperado: beneficios, riesgos y sostenibilidad.</span><br /><span style=\"font-size: 10pt;\">6. Conclusiones: Síntesis del aprendizaje. Reflexión personal o grupal. Recomendaciones futuras.</span><br /><span style=\"font-size: 10pt;\">7. Preguntas y discusión: Motivación del interés y proyección de futuras indagaciones.</span><br /><span style=\"font-size: 10pt;\">8. Referencias: Fuentes bibliográficas, documentales o testimoniales utilizadas.</span><strong><br /></strong></p>\n<p><span style=\"font-size: 12pt;\"><strong>Formato (soporte) / tecnológico</strong></span></p>\n<p><span style=\"font-size: 10pt;\">• Archivo en formato MP4, generado a partir de una presentación en PowerPoint (presentación exportada a video MP4).</span></p>\n<p><span style=\"font-size: 10pt;\">Tecnológico:</span></p>\n<p><span style=\"font-size: 10pt;\">• Duración máxima: 10 minutos.</span><br /><span style=\"font-size: 10pt;\">• Peso máximo del archivo: 200 MB.</span><br /><span style=\"font-size: 10pt;\">• Las tablas o cuadros comparativos deben diseñarse e incrustarse directamente en el archivo en formato editable; no se admite la inserción de tablas provenientes de hojas de cálculo externas, el uso de capturas de pantalla o imágenes. Tampoco se permite enlazar direcciones URL externas ni vínculos a repositorios en la nube.</span></p>\n<h2><strong> P2. Revisión de prensa</strong></h2>\n<p>Contenido</p>\n<h2><strong>P3. Revisión de archivo</strong></h2>\n</div>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-muun4rix-d7ehert7r</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Aprendizaje basado en proyectos</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
-  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Aprendizaje basado en proyectos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Estrategia de aprendizaje basado en</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-muun4rix-d7ehert7r</odePageId>
-      <odeBlockId>block-muun4xrd-v36m0ctf1</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName></iconName>
+      <odeBlockId>block-muvzg6wv-sl4q5w4u0</odeBlockId>
+      <blockName>Productos a entregar por el estudiante - Rúbricas de evaluación</blockName>
+      <iconName>mi-book_3</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -209,15 +159,246 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-muun4rix-d7ehert7r</odePageId>
-          <odeBlockId>block-muun4xrd-v36m0ctf1</odeBlockId>
-          <odeIdeviceId>idevice-1791167927017-9cqtgdokg</odeIdeviceId>
+          <odeBlockId>block-muvzg6wv-sl4q5w4u0</odeBlockId>
+          <odeIdeviceId>idevice-1791249073663-vvq9ktdob</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    
+    <div class="exe-fx exe-tabs">
+<h2>P1 - Video expositivo de presentación del caso</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">1. Introducción: Presentación del caso: título, contexto general y relevancia.<br />Objetivo de la exposición: qué se pretende mostrar o resolver.<br />Justificación: por qué se eligió el caso y su importancia académica o profesional.<br />2. Descripción del caso: Contexto específico: lugar, tiempo, actores involucrados. Situación problemática: hechos clave, conflicto o dilema central. Datos relevantes: cifras, testimonios, documentos, etc.<br />3. Análisis preliminar del caso: Identificación del problema principal. Causas y consecuencias. Perspectiva teórica: aplicación de conceptos, teorías o modelos. Valoración crítica: fortalezas, debilidades, oportunidades y amenazas (puede incluir un FODA).<br />4. Alternativas de solución: Opciones posibles: con sus ventajas y desventajas. Criterios de evaluación: cómo se comparan las alternativas.<br />5. Propuesta de solución: Solución elegida: argumentación y sustentación. Plan de acción: pasos, recursos, responsables y cronograma. Impacto esperado: beneficios, riesgos y sostenibilidad.<br />6. Conclusiones: Síntesis del aprendizaje. Reflexión personal o grupal. Recomendaciones futuras.<br />7. Preguntas y discusión: Motivación del interés y proyección de futuras indagaciones.<br />8. Referencias: Fuentes bibliográficas, documentales o testimoniales utilizadas.</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p>Formato (soporte):</p>
+<p>• Archivo en formato MP4, generado a partir de una presentación en PowerPoint (presentación exportada a video MP4).<br />• Duración máxima: 10 minutos.<br />• Peso máximo del archivo: 200 MB.<br />• Las tablas o cuadros comparativos deben diseñarse e incrustarse directamente en el archivo en formato editable; no se admite la inserción de tablas provenientes de hojas de cálculo externas, el uso de capturas de pantalla o imágenes. Tampoco se permite enlazar direcciones URL externas ni vínculos a repositorios en la nube.</p>
+<table border="1" class="exe-table" style="width: 100%; height: 121px;">
+<tbody>
+<tr style="height: 80px;">
+<td style="width: 33.3032%; text-align: center; height: 80px;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center; height: 80px;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center; height: 80px;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr style="height: 41px;">
+<td style="width: 33.3032%; height: 41px; vertical-align: top;">
+<p><span style="font-size: 10pt;">Se espera que el video expositivo de presentación del caso tenga un estándar de calidad acorde con el nivel académico del curso (técnico, pregrado, posgrado, etc.) y con las problemáticas que el estudiante debería poder plantear y abordar, para el desarrollo de habilidades en un grado cognitivo asociado las siguiente categorías: memorización, comprensión, aplicación, análisis, síntesis o evaluación.</span></p>
+<p><span style="font-size: 10pt;">Nivel alto: El video expositivo cuenta con:</span><br /><span style="font-size: 10pt;">1) Introducción: presentación del caso elegido, objetivo de la exposición, justificación del caso elegido.</span><br /><span style="font-size: 10pt;">2) Descripción del caso: contexto específico, situación problemática, datos relevantes.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias, perspectiva teórica de abordaje, valoración crítica.</span><br /><span style="font-size: 10pt;">4) Alternativas de solución: posibles opciones de respuesta a la situación problemática, criterios de evaluación de estas opciones.</span><br /><span style="font-size: 10pt;">5) Propuesta de solución: solución elegida, posible plan de acción, impacto esperado.</span><br /><span style="font-size: 10pt;">6) Conclusiones: síntesis de los aprendido, reflexión personal (o grupal), recomendaciones.</span><br /><span style="font-size: 10pt;">7) Preguntas para discusión: preguntas que motiven reflexión.</span><br /><span style="font-size: 10pt;">8) Referencias: uso de Normas APA. </span></p>
+<p><span style="font-size: 10pt;">Nivel medio: El video expositivo cuenta con:</span><br /><span style="font-size: 10pt;">1) Introducción: presentación del caso elegido, objetivo de la exposición.</span><br /><span style="font-size: 10pt;">2) Descripción del caso: contexto específico, situación problemática.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias.</span><br /><span style="font-size: 10pt;">4) Alternativas de solución: posibles opciones de respuesta a la situación problemática.</span><br /><span style="font-size: 10pt;">5) Propuesta de solución: solución elegida, posible plan de acción.</span><br /><span style="font-size: 10pt;">6) Conclusiones: reflexión personal (o grupal), recomendaciones.</span><br /><span style="font-size: 10pt;">7) Referencias: uso de Normas APA.</span></p>
+<p><span style="font-size: 10pt;">Nivel bajo: El video expositivo cuenta con:</span><br /><span style="font-size: 10pt;">1) Introducción: presentación del caso elegido.</span><br /><span style="font-size: 10pt;">2) Descripción del caso: contexto específico.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal.</span><br /><span style="font-size: 10pt;">4) Conclusiones: reflexión personal (o grupal), recomendaciones.</span><br /><span style="font-size: 10pt;">5) Referencias: uso de Normas APA.</span></p>
+<p><br /><span style="font-size: 10pt;">Descripción para evaluadores  </span></p>
+<p><span style="font-size: 10pt;">Esta rúbrica orienta la valoración de la presentación formal del video expositivo, considerando la estructura y orden de las secciones, la claridad y fluidez del discurso oral, el uso adecuado del tiempo asignado y el cumplimiento de las indicaciones técnicas sobre formato, duración y calidad básica del recurso audiovisual.</span></p>
+<p><br /></p>
+<p><br /></p>
+</td>
+<td style="width: 33.3032%; height: 41px; vertical-align: top;">
+<p><span style="font-size: 10pt;">Se espera que el video expositivo de presentación del caso responda una finalidad puntual, en el marco de la disciplina o campo propio del curso. Podría hacerse énfasis en alguno de los siguientes aspectos: 1) Claridad en objetivo y justificación de la exposición, 2) Precisión y profundidad en la descripción y análisis preliminar del caso, 3) o pertinecia de las alternativas, propuestas y conclusiones</span></p>
+<p><span style="font-size: 10pt;">Nivel alto: El contenido del video expositivo cumple con condiciones de:</span><br /><span style="font-size: 10pt;">1) Claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style="font-size: 10pt;">2) Precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias, perspectiva teórica de abordaje, valoración crítica.</span><br /><span style="font-size: 10pt;">4) Profundidad del análisis preliminar: expresión crítica y sustentada con respecto al caso seleccionado. Uso de estructuras argumentativas. </span><br /><span style="font-size: 10pt;">5) Pertinencia de propuesta y conclusiones: actualidad contextual e interés disciplinar de la propuesta de solución y conclusiones. </span></p>
+<p><span style="font-size: 10pt;">Nivel medio: El contenido del video expositivo cumple con condiciones de:</span><br /><span style="font-size: 10pt;">1) Claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style="font-size: 10pt;">2) Falta de precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias.</span><br /><span style="font-size: 10pt;">4) Profundidad del análisis preliminar: expresión crítica, aunque carente de sustetación, con respecto al caso seleccionado. </span><br /><span style="font-size: 10pt;">5) Pertinencia de propuesta y conclusiones: actualidad contextual de la propuesta de solución y conclusiones.</span></p>
+<p><span style="font-size: 10pt;">Nivel bajo: El contenido del video expositivo cumple con condiciones de:</span><br /><span style="font-size: 10pt;">1) Falta de claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style="font-size: 10pt;">2) Falta de precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style="font-size: 10pt;">3) Análisis preliminar del caso: identificación del problema principal.</span><br /><span style="font-size: 10pt;">4) Falta de profundidad del análisis preliminar: carencia en el uso de estructuras argumentativas. </span><br /><span style="font-size: 10pt;">5) Propuesta y conclusiones sin pertinencia contextual e interés disciplinar.</span></p>
+<p><span style="font-size: 10pt;">Descripción para evaluadores </span></p>
+<p><span style="font-size: 10pt;">Esta rúbrica orienta la valoración del contenido académico del video, teniendo en cuenta la precisión en la presentación del caso, la relevancia y claridad del problema planteado, la coherencia del análisis preliminar, la pertinencia de las alternativas y la propuesta de solución, así como la articulación con los resultados de aprendizaje y con los referentes teóricos propios del curso.</span></p>
+</td>
+<td style="width: 33.3032%; height: 41px; vertical-align: top;">
+<p><span style="font-size: 10pt;">Se espera que el video expositivo de presentación del caso tenga un estándar de calidad acorde con el nivel académico del curso (técnico, pregrado, posgrado, etc.) y con las problemáticas que el estudiante debería poder plantear y abordar, para el desarrollo de habilidades en un grado cognitivo asociado las siguiente categorías: memorización, comprensión, aplicación, análisis, síntesis o evaluación.</span></p>
+<p><br /><span style="font-size: 10pt;">Descripción para evaluadores</span></p>
+<p><br /><span style="font-size: 10pt;">Este criterio orienta la valoración de la calidad académica del producto correspondiente a esta actividad. El evaluador debe revisar en qué medida el trabajo evidencia dominio conceptual, uso pertinente de fuentes confiables, coherencia y profundidad de la argumentación, originalidad en los aportes y respeto por la integridad académica, reflejado en la adecuada atribución de las fuentes y el uso responsable de la información, de acuerdo con los niveles de desempeño y rangos de puntaje definidos para este tercer criterio en la rúbrica de la actividad.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>P2 - Revisión de prensa</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><strong><span style="color: #169179;"></span></strong><br /></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><span style="color: #236fa1;"><strong>Primer criterio de evaluación (de forma)</strong></span></td>
+<td style="width: 33.3032%; text-align: center;"><span style="color: #236fa1;"><strong>Segundo criterio de evaluación (de contenido)</strong></span></td>
+<td style="width: 33.3032%; text-align: center;"><span style="color: #236fa1;"><strong>Tercer criterio de evaluación (de calidad académica)</strong></span></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<h2>P3 - Revisión de archivo</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>P4 - Informe académico descriptivo<br /></h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>P5 - Informe académico interpretativo</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>P6 - Podcast expositivo o de contenido</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>P7 - Sustentación estructurada</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<p><br /></p>
+<h2>P8 - Presentación académica expositiva base PowerPoint</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>P9 - Ensayo reflexivo</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<h2>10 - Informe analítico comparativo de enfoques de resolución de la investigación</h2>
+<p><strong><span style="color: #169179;">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>
+<p><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<p><strong><span style="color: #169179;">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style="color: #000000; font-size: 10pt;">Contenido</span></p>
+<table border="1" class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Primer criterio de evaluación (de forma)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Segundo criterio de evaluación (de contenido)</span></strong></td>
+<td style="width: 33.3032%; text-align: center;"><strong><span style="color: #236fa1;">Tercer criterio de evaluación (de calidad académica)</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"><br /></td>
+<td style="width: 33.3032%;"></td>
+</tr>
+</tbody>
+</table>
+<p>Contenido</p>
+<p> </p>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-3">
+<p><br /></p>
+<br /></div>
+</div>
+</div>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791167927017-9cqtgdokg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791249073663-vvq9ktdob","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>P1 - Video expositivo de presentación del caso</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">1. Introducción: Presentación del caso: título, contexto general y relevancia.<br />Objetivo de la exposición: qué se pretende mostrar o resolver.<br />Justificación: por qué se eligió el caso y su importancia académica o profesional.<br />2. Descripción del caso: Contexto específico: lugar, tiempo, actores involucrados. Situación problemática: hechos clave, conflicto o dilema central. Datos relevantes: cifras, testimonios, documentos, etc.<br />3. Análisis preliminar del caso: Identificación del problema principal. Causas y consecuencias. Perspectiva teórica: aplicación de conceptos, teorías o modelos. Valoración crítica: fortalezas, debilidades, oportunidades y amenazas (puede incluir un FODA).<br />4. Alternativas de solución: Opciones posibles: con sus ventajas y desventajas. Criterios de evaluación: cómo se comparan las alternativas.<br />5. Propuesta de solución: Solución elegida: argumentación y sustentación. Plan de acción: pasos, recursos, responsables y cronograma. Impacto esperado: beneficios, riesgos y sostenibilidad.<br />6. Conclusiones: Síntesis del aprendizaje. Reflexión personal o grupal. Recomendaciones futuras.<br />7. Preguntas y discusión: Motivación del interés y proyección de futuras indagaciones.<br />8. Referencias: Fuentes bibliográficas, documentales o testimoniales utilizadas.</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p>Formato (soporte):</p>\n<p>• Archivo en formato MP4, generado a partir de una presentación en PowerPoint (presentación exportada a video MP4).<br />• Duración máxima: 10 minutos.<br />• Peso máximo del archivo: 200 MB.<br />• Las tablas o cuadros comparativos deben diseñarse e incrustarse directamente en el archivo en formato editable; no se admite la inserción de tablas provenientes de hojas de cálculo externas, el uso de capturas de pantalla o imágenes. Tampoco se permite enlazar direcciones URL externas ni vínculos a repositorios en la nube.</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%; height: 121px;\">\n<tbody>\n<tr style=\"height: 80px;\">\n<td style=\"width: 33.3032%; text-align: center; height: 80px;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center; height: 80px;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center; height: 80px;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 33.3032%; height: 41px; vertical-align: top;\">\n<p><span style=\"font-size: 10pt;\">Se espera que el video expositivo de presentación del caso tenga un estándar de calidad acorde con el nivel académico del curso (técnico, pregrado, posgrado, etc.) y con las problemáticas que el estudiante debería poder plantear y abordar, para el desarrollo de habilidades en un grado cognitivo asociado las siguiente categorías: memorización, comprensión, aplicación, análisis, síntesis o evaluación.</span></p>\n<p><span style=\"font-size: 10pt;\">Nivel alto: El video expositivo cuenta con:</span><br /><span style=\"font-size: 10pt;\">1) Introducción: presentación del caso elegido, objetivo de la exposición, justificación del caso elegido.</span><br /><span style=\"font-size: 10pt;\">2) Descripción del caso: contexto específico, situación problemática, datos relevantes.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias, perspectiva teórica de abordaje, valoración crítica.</span><br /><span style=\"font-size: 10pt;\">4) Alternativas de solución: posibles opciones de respuesta a la situación problemática, criterios de evaluación de estas opciones.</span><br /><span style=\"font-size: 10pt;\">5) Propuesta de solución: solución elegida, posible plan de acción, impacto esperado.</span><br /><span style=\"font-size: 10pt;\">6) Conclusiones: síntesis de los aprendido, reflexión personal (o grupal), recomendaciones.</span><br /><span style=\"font-size: 10pt;\">7) Preguntas para discusión: preguntas que motiven reflexión.</span><br /><span style=\"font-size: 10pt;\">8) Referencias: uso de Normas APA. </span></p>\n<p><span style=\"font-size: 10pt;\">Nivel medio: El video expositivo cuenta con:</span><br /><span style=\"font-size: 10pt;\">1) Introducción: presentación del caso elegido, objetivo de la exposición.</span><br /><span style=\"font-size: 10pt;\">2) Descripción del caso: contexto específico, situación problemática.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias.</span><br /><span style=\"font-size: 10pt;\">4) Alternativas de solución: posibles opciones de respuesta a la situación problemática.</span><br /><span style=\"font-size: 10pt;\">5) Propuesta de solución: solución elegida, posible plan de acción.</span><br /><span style=\"font-size: 10pt;\">6) Conclusiones: reflexión personal (o grupal), recomendaciones.</span><br /><span style=\"font-size: 10pt;\">7) Referencias: uso de Normas APA.</span></p>\n<p><span style=\"font-size: 10pt;\">Nivel bajo: El video expositivo cuenta con:</span><br /><span style=\"font-size: 10pt;\">1) Introducción: presentación del caso elegido.</span><br /><span style=\"font-size: 10pt;\">2) Descripción del caso: contexto específico.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal.</span><br /><span style=\"font-size: 10pt;\">4) Conclusiones: reflexión personal (o grupal), recomendaciones.</span><br /><span style=\"font-size: 10pt;\">5) Referencias: uso de Normas APA.</span></p>\n<p><br /><span style=\"font-size: 10pt;\">Descripción para evaluadores  </span></p>\n<p><span style=\"font-size: 10pt;\">Esta rúbrica orienta la valoración de la presentación formal del video expositivo, considerando la estructura y orden de las secciones, la claridad y fluidez del discurso oral, el uso adecuado del tiempo asignado y el cumplimiento de las indicaciones técnicas sobre formato, duración y calidad básica del recurso audiovisual.</span></p>\n<p><br /></p>\n<p><br /></p>\n</td>\n<td style=\"width: 33.3032%; height: 41px; vertical-align: top;\">\n<p><span style=\"font-size: 10pt;\">Se espera que el video expositivo de presentación del caso responda una finalidad puntual, en el marco de la disciplina o campo propio del curso. Podría hacerse énfasis en alguno de los siguientes aspectos: 1) Claridad en objetivo y justificación de la exposición, 2) Precisión y profundidad en la descripción y análisis preliminar del caso, 3) o pertinecia de las alternativas, propuestas y conclusiones</span></p>\n<p><span style=\"font-size: 10pt;\">Nivel alto: El contenido del video expositivo cumple con condiciones de:</span><br /><span style=\"font-size: 10pt;\">1) Claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style=\"font-size: 10pt;\">2) Precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias, perspectiva teórica de abordaje, valoración crítica.</span><br /><span style=\"font-size: 10pt;\">4) Profundidad del análisis preliminar: expresión crítica y sustentada con respecto al caso seleccionado. Uso de estructuras argumentativas. </span><br /><span style=\"font-size: 10pt;\">5) Pertinencia de propuesta y conclusiones: actualidad contextual e interés disciplinar de la propuesta de solución y conclusiones. </span></p>\n<p><span style=\"font-size: 10pt;\">Nivel medio: El contenido del video expositivo cumple con condiciones de:</span><br /><span style=\"font-size: 10pt;\">1) Claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style=\"font-size: 10pt;\">2) Falta de precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal, causas y consecuencias.</span><br /><span style=\"font-size: 10pt;\">4) Profundidad del análisis preliminar: expresión crítica, aunque carente de sustetación, con respecto al caso seleccionado. </span><br /><span style=\"font-size: 10pt;\">5) Pertinencia de propuesta y conclusiones: actualidad contextual de la propuesta de solución y conclusiones.</span></p>\n<p><span style=\"font-size: 10pt;\">Nivel bajo: El contenido del video expositivo cumple con condiciones de:</span><br /><span style=\"font-size: 10pt;\">1) Falta de claridad en la presentación del objetivo de la exposición y del caso elegido, y de la justificación del caso elegido.</span><br /><span style=\"font-size: 10pt;\">2) Falta de precisión y capacidad de síntesis en la descripcíon del caso y referencia a fuentes utilizadas.</span><br /><span style=\"font-size: 10pt;\">3) Análisis preliminar del caso: identificación del problema principal.</span><br /><span style=\"font-size: 10pt;\">4) Falta de profundidad del análisis preliminar: carencia en el uso de estructuras argumentativas. </span><br /><span style=\"font-size: 10pt;\">5) Propuesta y conclusiones sin pertinencia contextual e interés disciplinar.</span></p>\n<p><span style=\"font-size: 10pt;\">Descripción para evaluadores </span></p>\n<p><span style=\"font-size: 10pt;\">Esta rúbrica orienta la valoración del contenido académico del video, teniendo en cuenta la precisión en la presentación del caso, la relevancia y claridad del problema planteado, la coherencia del análisis preliminar, la pertinencia de las alternativas y la propuesta de solución, así como la articulación con los resultados de aprendizaje y con los referentes teóricos propios del curso.</span></p>\n</td>\n<td style=\"width: 33.3032%; height: 41px; vertical-align: top;\">\n<p><span style=\"font-size: 10pt;\">Se espera que el video expositivo de presentación del caso tenga un estándar de calidad acorde con el nivel académico del curso (técnico, pregrado, posgrado, etc.) y con las problemáticas que el estudiante debería poder plantear y abordar, para el desarrollo de habilidades en un grado cognitivo asociado las siguiente categorías: memorización, comprensión, aplicación, análisis, síntesis o evaluación.</span></p>\n<p><br /><span style=\"font-size: 10pt;\">Descripción para evaluadores</span></p>\n<p><br /><span style=\"font-size: 10pt;\">Este criterio orienta la valoración de la calidad académica del producto correspondiente a esta actividad. El evaluador debe revisar en qué medida el trabajo evidencia dominio conceptual, uso pertinente de fuentes confiables, coherencia y profundidad de la argumentación, originalidad en los aportes y respeto por la integridad académica, reflejado en la adecuada atribución de las fuentes y el uso responsable de la información, de acuerdo con los niveles de desempeño y rangos de puntaje definidos para este tercer criterio en la rúbrica de la actividad.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>P2 - Revisión de prensa</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><strong><span style=\"color: #169179;\"></span></strong><br /></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><span style=\"color: #236fa1;\"><strong>Primer criterio de evaluación (de forma)</strong></span></td>\n<td style=\"width: 33.3032%; text-align: center;\"><span style=\"color: #236fa1;\"><strong>Segundo criterio de evaluación (de contenido)</strong></span></td>\n<td style=\"width: 33.3032%; text-align: center;\"><span style=\"color: #236fa1;\"><strong>Tercer criterio de evaluación (de calidad académica)</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<h2>P3 - Revisión de archivo</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>P4 - Informe académico descriptivo<br /></h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>P5 - Informe académico interpretativo</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>P6 - Podcast expositivo o de contenido</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>P7 - Sustentación estructurada</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<p><br /></p>\n<h2>P8 - Presentación académica expositiva base PowerPoint</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>P9 - Ensayo reflexivo</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<h2>10 - Informe analítico comparativo de enfoques de resolución de la investigación</h2>\n<p><strong><span style=\"color: #169179;\">Estructura (parametrización académica del entregable). Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.</span></strong></p>\n<p><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<p><strong><span style=\"color: #169179;\">Formato (soporte) / tecnológico. Se recomienda adaptar esta información e incluirla en la guía de aprendizaje.<br /><br /></span></strong><span style=\"color: #000000; font-size: 10pt;\">Contenido</span></p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Primer criterio de evaluación (de forma)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Segundo criterio de evaluación (de contenido)</span></strong></td>\n<td style=\"width: 33.3032%; text-align: center;\"><strong><span style=\"color: #236fa1;\">Tercer criterio de evaluación (de calidad académica)</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"><br /></td>\n<td style=\"width: 33.3032%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>Contenido</p>\n<p> </p>\n<div class=\"exe-layout-3-cols exe-clear\">\n<div class=\"exe-col exe-col-3\">\n<p><br /></p>\n<br /></div>\n</div>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
